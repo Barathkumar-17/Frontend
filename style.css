@@ -13,9 +13,9 @@ body
     list-style: none;
 }
 button,input{
-    padding: 1px;
-    border-radius: 2px;
-    margin: 1px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
 }
 label{
     display:inline-block;

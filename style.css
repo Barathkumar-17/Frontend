@@ -8,7 +8,7 @@ body
 .list{
     margin-bottom: 20px ;
     border:2px solid black;
-    border-radius: 5px;
+    border-radius: 30px;
     paddin: 10px
 }
 label{

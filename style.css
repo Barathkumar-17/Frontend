@@ -13,7 +13,7 @@ body
     list-style: none;
 }
 button,input{
-    padding: 20px;
+    padding: 5px;
     border-radius: 10px;
     margin: 5px;
 }

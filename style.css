@@ -18,8 +18,8 @@ button,input{
     margin: 5px;
 }
 button{
-    background-colour: #42b830;
-    colour: #4249cf;
+    background-color: #42b830;
+    color: #4249cf;
 }
 label{
     display:inline-block;

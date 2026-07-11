@@ -19,7 +19,8 @@ button,input{
 }
 button{
     background-color: #42b830;
-    color: #4249cf;
+    color: #c64951;
+    cursor: pointer;
 }
 label{
     display:inline-block;

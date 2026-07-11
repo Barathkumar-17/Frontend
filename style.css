@@ -17,6 +17,10 @@ button,input{
     border-radius: 10px;
     margin: 5px;
 }
+button{
+    background-colour: #42b830;
+    colour: #4249cf;
+}
 label{
     display:inline-block;
     width:100px;

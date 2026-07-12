@@ -17,6 +17,11 @@ button,input{
     border-radius: 10px;
     margin: 5px;
 }
+form div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
 button{
     background-color: #42b830;
     color: #c64951;

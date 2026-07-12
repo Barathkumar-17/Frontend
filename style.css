@@ -12,6 +12,9 @@ body
     padding: 10px;
     list-style: none;
 }
+form div label {
+    flex-basis: 100px;
+}
 button,input{
     padding: 5px;
     border-radius: 10px;

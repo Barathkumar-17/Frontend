@@ -1,15 +1,4 @@
-@media (max-width: 600px)
-{
-    body
-    {
-        padding:10px;
-    }
-    form div
-    {
-        flex-direction: column;
-        gap: 5px;
-    }
-}
+
 body
 {
     background-color: rgb(43, 41, 96);
@@ -42,4 +31,16 @@ button{
     background-color: #42b830;
     color: #c64951;
     cursor: pointer;
+}
+@media (max-width: 600px)
+{
+    body
+    {
+        padding:10px;
+    }
+    form div
+    {
+        flex-direction: column;
+        gap: 5px;
+    }
 }

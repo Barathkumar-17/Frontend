@@ -36,12 +36,13 @@ button{
 {
     body
     {
-        padding:5px;
+        padding:10px;
     }
     form div
     {
         flex-direction: column;
         gap: 5px;
+        align-items: flex-start;
     }
     form div label
     {

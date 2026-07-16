@@ -47,4 +47,8 @@ button{
     {
         flex-basis: 10px;
     }
+    button,input
+    {
+        margin: 2px;
+    }
 }
